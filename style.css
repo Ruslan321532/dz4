@@ -1,0 +1,29 @@
+body{
+    background: url(./images/school-wall-1-jpg.jpg) no-repeat ;
+    background-size: cover;
+
+}
+.buttons {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 351px;
+    font-size: 45px;
+}
+
+.btnplus {
+    bottom: 5px;
+    width: 100px;
+    color: white;
+}
+.btnmunys {
+    bottom: 5px;
+    width: 100px;
+    color: white;
+}
+
+
+.numb {
+    color: white;
+}
